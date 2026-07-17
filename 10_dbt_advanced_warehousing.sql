@@ -1,0 +1,13 @@
+-- ============================================================
+-- 10 - DBT ADVANCED AND DATA WAREHOUSING
+-- ⏳ Module pas encore vu — coquille à remplir
+-- (les bases du data warehousing — star schema, fact/dimension —
+-- sont déjà notées dans 06_advanced_sql.sql, vues le 17/07/2026)
+-- ============================================================
+
+-- À couvrir quand le module sera vu :
+-- - Macros DBT (Jinja) et réutilisation de logique
+-- - Snapshots (gestion des données historisées / SCD)
+-- - Stratégies d'incremental models (append vs merge vs delete+insert)
+-- - Aller plus loin sur la modélisation warehouse (schéma en flocon,
+--   slowly changing dimensions) une fois les bases DBT posées
